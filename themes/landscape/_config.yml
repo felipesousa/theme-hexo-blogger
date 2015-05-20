@@ -1,9 +1,9 @@
 # Header
 menu:
-  Home: /
-  About: /about
-  Projects: /projects
-  Archives: /archives
+  HOME: /
+  ABOUT: /about
+  PROJECTS: /projects
+  ARCHIVES: /archives
 
 rss: /atom.xml
 
