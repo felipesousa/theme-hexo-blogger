@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
+  About: /about
+  Projects: /projects
   Archives: /archives
+
 rss: /atom.xml
 
 # Content
@@ -9,7 +12,6 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
 widgets:
 - category
 - tag
