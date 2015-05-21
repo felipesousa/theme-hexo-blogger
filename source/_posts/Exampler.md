@@ -1,9 +1,10 @@
 ---
 title: 1 ano como dev Front End
-tags: helloword
+tags: frontender
+
 ---
 
-{% img img-thumbnail /images/teste.jpg %}
+{% img img-thumbnail /images/teste2.jpg %}
 
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues)....
 
