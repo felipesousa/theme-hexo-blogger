@@ -1,10 +1,13 @@
 ---
-title: Artigo 2
-tags: ['helloword', 'frontender']
+title: Artigo 3
+tags: frontender
+
 ---
 
-{% img img-thumbnail /images/teste.jpg %}
 
+{% img img-thumbnail /images/teste2.jpg %}
+
+<!--init-->
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues)....
 
 <!--more-->
@@ -18,7 +21,7 @@ Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documen
 $ hexo new "My New Post"
 ```
 
-More info: [Writing](http://hexo.io/docs/writing.html)
+~~More info~~ : [Writing](http://hexo.io/docs/writing.html)
 
 ### Run server
 
