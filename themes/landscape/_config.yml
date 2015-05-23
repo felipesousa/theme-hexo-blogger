@@ -6,14 +6,11 @@ menu:
   ARCHIVES: /archives
 
 rss:
+bio_photo: images/bio-photo.jpg
 
 # Content
 excerpt_link: Read More
 fancybox: true
-
-bio_photo: images/bio-photo.jpg
-
-
 
 # Sidebar
 widgets:
