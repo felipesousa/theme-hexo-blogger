@@ -5,11 +5,15 @@ menu:
   PROJECTS: /projects
   ARCHIVES: /archives
 
-rss: /atom.xml
+rss:
 
 # Content
 excerpt_link: Read More
 fancybox: true
+
+bio_photo: images/bio-photo.jpg
+
+
 
 # Sidebar
 widgets:

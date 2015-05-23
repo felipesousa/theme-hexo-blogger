@@ -1,6 +1,7 @@
 ---
 title: Artigo 2
 tags: ['helloword', 'frontender']
+comments: true
 ---
 
 {% img img-thumbnail /images/teste.jpg %}

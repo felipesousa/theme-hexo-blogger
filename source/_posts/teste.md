@@ -1,11 +1,11 @@
 ---
 title: Artigo 3
 tags: frontender
-
+comments: true
 ---
 
 
-{% img img-thumbnail /images/teste2.jpg %}
+{% img img-thumbnail /images/teste.jpg %}
 
 <!--init-->
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues)....
