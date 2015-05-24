@@ -1,4 +1,3 @@
-##Hexo Template Blog
+#Hexo Blogger Theme
 
-Template derived from standard Hexo.js [Landscape template](https://github.com/hexojs/hexo-theme-landscape). This template will go is new template for my [blog personal](http://felipesousa.github.io/), it was created in [Jekyll](http://jekyllrb.com/).
-
+Theme built on the top of [Hexo](http://hexo.io/)'s standard [landscape theme](https://github.com/hexojs/hexo-theme-landscape). This theme's been written to be the new theme of my [blog](http://felipesousa.github.io/) (*originally made with [Jekyll](http://jekyllrb.com/)*).
