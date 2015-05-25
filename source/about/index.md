@@ -15,4 +15,3 @@ Desde de muito novo quis aprender os segredos do mundo Front-end - o que são, o
 
 De alguma forma eu queria ser grato, manter uma linhagem eu diria e ao mesmo tempo aprender, já que quando ensinamos, aprendemos 2 vezes!
 
-
