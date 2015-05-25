@@ -5,8 +5,6 @@ menu:
   PROJECTS: /projects
   ARCHIVES: /archives
 
-bio_photo: images/bio-photo.jpg
-
 # Content
 excerpt_link: Read More
 fancybox: true
