@@ -76,4 +76,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/felipesousa/theme-hexo-blogger.git
+  branch: master

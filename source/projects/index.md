@@ -14,7 +14,7 @@ comments: false
 		<br />
 	<div class="github-widget" data-repo="felipesousa/fortal-model"></div>
 		<br />
-	<div class="github-widget" data-repo="felipesousa/Foundation-Beginners">
+	<div class="github-widget" data-repo="felipesousa/Foundation-Beginners"></div>
 </div>
 	
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
