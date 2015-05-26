@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-{% img img-thumbnail /images/jekyll.jpg %}
+{% img img-thumbnail /images/posts/jekyll.jpg %}
 
 Atualmente, quanto mais simples e funcional a ferramenta for, mais rapidamente ela será estudada e usada, Jekyll é um Static Page Generator criado em Ruby, super fácil de se utilizar e modificar...
 
@@ -80,7 +80,7 @@ A mensagem exibida diz que um novo site em jekyll foi criado no diretório **/ho
 
  Resultado..
 
- {% img img-thumbnail /images/jekyll-exampler.png %}
+ {% img img-thumbnail /images/posts/jekyll-exampler.png %}
 
 
  Viu como é simples? Qualquer dúvida, crítica ou algum ponto importante que foi mal explicado ou que faltou no artigo, comenta que agradecerei muito! até a pŕoxima!

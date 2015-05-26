@@ -3,7 +3,7 @@ tags: ['frontend', '2015', 'comunity', 'lifestyle']
 date: 2015-02-09
 comments: true
 ---
-{% img img-thumbnail /images/linha2015.jpg %}
+{% img img-thumbnail /images/posts/linha2015.jpg %}
 
 Hello! Bem pessoal hoje eu vou falar um pouco sobre o que a muito tempo era pra ter feito, uma linhagem de estudo, recebi essa dica de um amigo desensenvolvedor a um tempo, visto que isso me traria alguns benefícios, tanto de organização, quanto a entendimento de determinada ferramenta, etc.
 

@@ -5,7 +5,7 @@ date: 2015-02-26
 comments: true
 ---
 
-{% img img-thumbnail /images/elemos.png %}
+{% img img-thumbnail /images/posts/elemos.jpg %}
 
 Há tempos queria escrever um pouco sobre Linux, sou fã do SO, a variedade e as opções são de encher os olhos, com isso, resolvi escrever um pouco sobre o dia a dia com o Linux...
 

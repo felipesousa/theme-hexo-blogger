@@ -5,7 +5,7 @@ date: 2015-01-17
 comments: true
 ---
 
-{% img img-thumbnail /images/gitpost.jpg %}
+{% img img-thumbnail /images/posts/gitpost.jpg %}
 
 
 Bem, visto que é super importante o uso de Controle de Versões em projetos para organizá-lo de forma mais correta, ver a evolução do projeto com o tempo, etc.

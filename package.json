@@ -1,7 +1,22 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "my-personal-blog",
+  "author": "Felipe Sousa",
+  "description": "My personal blog",
+  "version": "1.0.0",
   "private": true,
+  "keywords": [
+    "frontend",
+    "hexo",
+    "static",
+    "git"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felipesousa/felipesousa.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipesousa/felipesousa.github.io/issues"
+  },
   "hexo": {
     "version": "3.1.1"
   },

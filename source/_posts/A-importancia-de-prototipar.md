@@ -5,7 +5,7 @@ date: 2015-04-10
 comments: true
 ---
 
-{% img img-thumbnail /images/prototipo.jpg %}
+{% img img-thumbnail /images/posts/prototipo.jpg %}
 
 Há alguns meses, comecei a procurar arduamente processos que ajudam bastante no desenvolvimento e a organização de um projeto. Dentre vários, a prototipação foi uma delas, que visa de forma simples, ver um pouco do modelo antes de tudo...
 
@@ -49,8 +49,6 @@ Existem diversas ferramentas que servem para criarmos um protótipo, dentre eles
 * [POP](https://popapp.in/) 
 * [Pencil Project](http://pencil.evolus.vn/) 
 * [Axure](http://www.axure.com/) 
-
-<br /> 
 
 Existem muitos outros, cabe a você testar qual mais lhe agrada, usar **Photoshop** ou até mesmo o **Paint** são opções, o que vale é criar algo bom, que seja útil e prático!
 
