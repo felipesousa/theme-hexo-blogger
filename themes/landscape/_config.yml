@@ -4,6 +4,7 @@ menu:
   ABOUT: /about
   PROJECTS: /projects
   ARCHIVES: /archives
+  OLD VERSION: http://felipesousa.github.io/old-version-blog
 
 # Content
 excerpt_link: Read More
@@ -21,5 +22,5 @@ widgets:
 google_analytics:
 favicon: /favicon.png
 twitter: felipz_sousa
-google_plus:
-fb_admins: 
+google_plus: u/0/104290563189358000367
+fb_admins: felipe.simpsons
