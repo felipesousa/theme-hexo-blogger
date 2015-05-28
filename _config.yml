@@ -66,8 +66,7 @@ time_format: HH:mm:ss
 per_page: 0
 pagination_dir: page
 
-disqus_shortname: felipesousa
-
+disqus_shortname: felipesousagithubio
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
@@ -77,5 +76,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/felipesousa/theme-hexo-blogger.git
+  repo: https://github.com/felipesousa/felipesousa.github.io.git
   branch: master

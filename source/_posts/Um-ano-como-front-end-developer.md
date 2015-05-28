@@ -5,7 +5,7 @@ comments: true
 ---
 <img src="/images/posts/fif2014.jpg" alt='Front in Fortaleza 2014' title='Front in Fortaleza 2014' >
 
-Um ano como desenvolvedor front end, novas experiências de vida, muitos novos amigos. Aprender que a comunidade é muito mais importante que muitas outras coisas, conhecer pessoas que buscam objetivos e metas comparadas as suas, é entusiante, é sensacional e, acima de tudo essencial quando se busca ser um profissional com diferencial...
+Um ano como desenvolvedor front end, novas experiências de vida, muitos novos amigos. Aprender que a comunidade é muito mais importante que muitas outras coisas, conhecer pessoas que buscam objetivos e metas comparadas as suas, é entusiasmante, é sensacional e, acima de tudo essencial quando se busca ser um profissional com diferencial...
 
 <!--more-->
 
