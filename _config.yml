@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Felipe Sousa
-subtitle: "Front End Developer, entusiast of web and Linuxer!"
-description: 
-author: Felipe Sousa
+title: "Felipe Sousa" 
+titlesecondary : " Felipe Sousa | Desenvolvedor Front end"
+subtitle: "Desenvolvedor Front end, entusiasta da web e apaixonado pelo mundo livre!"
+description: "Desenvolvedor Front end, programador de aplicações web, apaixonado por Linux e tudo do mundo Open Source"	
+author: "Felipe Sousa | Desenvolvedor Front End" 
 language: pt-BR
 timezone:
 

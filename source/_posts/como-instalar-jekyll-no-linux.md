@@ -4,9 +4,7 @@ tags: ['Linux', 'static', 'generators', 'jekyll', 'pages']
 date: 2015-03-02
 comments: true
 ---
-
-
-{% img img-thumbnail /images/posts/jekyll.jpg %}
+<img src="/images/posts/jekyll.jpg" alt="Como instalar Jekyll no Linux" title="Como instalar Jekyll no Linux">
 
 Atualmente, quanto mais simples e funcional a ferramenta for, mais rapidamente ela será estudada e usada, Jekyll é um Static Page Generator criado em Ruby, super fácil de se utilizar e modificar...
 

@@ -5,8 +5,7 @@ date: 2015-01-17
 comments: true
 ---
 
-{% img img-thumbnail /images/posts/gitpost.jpg %}
-
+<img src="/images/posts/gitpost.jpg" alt="Básico em Git - Parte 1" title="Básico em Git - Parte 1">
 
 Bem, visto que é super importante o uso de Controle de Versões em projetos para organizá-lo de forma mais correta, ver a evolução do projeto com o tempo, etc.
 <!--more-->

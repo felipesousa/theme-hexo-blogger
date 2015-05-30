@@ -1,17 +1,14 @@
 # Header
 menu:
-  HOME: /
-  ABOUT: /about
-  PROJECTS: /projects
-  ARCHIVES: /archives
-<<<<<<< HEAD
-  OLD VERSION: http://felipesousa.github.io/oldversion
-=======
-  OLD VERSION: http://felipesousa.github.io/oldversion/
->>>>>>> b8d93f46a441270edff5751a133410beeb5d24a0
+  INICIO: /
+  SOBRE: /about
+  PROJETOS: /projects
+  ARTIGOS: /archives
+  VERSÃO ANTERIOR: http://felipesousa.github.io/oldversion/
+
 
 # Content
-excerpt_link: Read More
+excerpt_link: Leia mais
 fancybox: true
 
 # Sidebar
@@ -23,8 +20,8 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: 60406413
 favicon: /favicon.png
 twitter: felipz_sousa
-google_plus: u/0/104290563189358000367
+google_plus: u/0/+FelipeSousaDev
 fb_admins: felipe.simpsons
