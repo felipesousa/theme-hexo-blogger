@@ -22,17 +22,18 @@
   <title><% if (title){ %><%= title %> | <% } %><%= config.titlesecondary %></title>
   <script src="/js/elevator.min.js" type="text/javascript" charset="utf-8"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="author" content="Felipe Sousa">
-  <meta name="keywords" content="frontend, felipesousa, html, css, js">
+  <meta name="author" content="Felipe Sousa" >
+  <meta name="keywords" content="frontend, felipesousa, html, css, js, desenvolvedor, web, programador, developer">
   <meta name="description" content="Front end Developer, entusiast of web and Linuxer!">
   <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins}) %>
+  <link rel="author" type="text/css" href="https://plus.google.com/u/0/+FelipeSousaDev">
   <% if (theme.rss){ %>
-    <link rel="alternative" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
+    <link rel="alternative" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml" />
   <% } %>
   <% if (theme.favicon){ %>
-    <link rel="icon" href="<%- theme.favicon %>">
+    <link rel="icon" href="<%- theme.favicon %>" />
   <% } %>
-  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css" />
   <%- css('css/style') %>
   <%- partial('google-analytics') %>
 </head>

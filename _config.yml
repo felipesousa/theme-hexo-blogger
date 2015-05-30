@@ -9,7 +9,7 @@ subtitle: "Desenvolvedor Front end, entusiasta da web e apaixonado pelo mundo li
 description: "Desenvolvedor Front end, programador de aplicações web, apaixonado por Linux e tudo do mundo Open Source"	
 author: "Felipe Sousa | Desenvolvedor Front End" 
 language: pt-BR
-timezone:
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -34,6 +34,10 @@ feed:
   type: atom
   path: atom.xml
   limit: 5
+
+#Sitemap
+sitemap:
+    path: sitemap.xml
 
 # Writing
 new_post_name: :title.md # File name of new posts
