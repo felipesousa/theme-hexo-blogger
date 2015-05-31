@@ -1,8 +1,8 @@
-title: "About"
+title: "Sobre mim"
 date: 2015-05-19 21:11:29
 comments: false
 ---
-<img class='bio-photo-about' src="/images/header/bio-photo.jpg" alt="">
+<img class='bio-photo-about' src="/images/header/bio-photo.jpg" alt="sobre mim">
 
 Meu nome é Luis Felipe Cavalcante Sousa, nasci e moro em Fortaleza-CE, sou Desenvolvedor Front-end, sou apaixonado pela web, pelo mundo open source, comecei com desenvolvimento com apenas 13 anos onde criava pequenos blog’s no Blogger, depois de um tempo aumentei a minha curiosidade para saber como que de fato ocorria por trás da mágica toda!
 
