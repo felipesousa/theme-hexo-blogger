@@ -4,7 +4,7 @@ date: 2015-02-09
 comments: true
 ---
 
-<img src="/images/posts/linha2015.jpg " alt="Minha linha de estudo pra 2015" title="Minha linha de estudo pra 2015">
+<img src="/images/posts/linha2015-post.jpg " alt="Minha linha de estudo pra 2015" title="Minha linha de estudo pra 2015">
 
 Hello! Bem pessoal hoje eu vou falar um pouco sobre o que a muito tempo era pra ter feito, uma linhagem de estudo, recebi essa dica de um amigo desensenvolvedor a um tempo, visto que isso me traria alguns benefícios, tanto de organização, quanto a entendimento de determinada ferramenta, etc.
 

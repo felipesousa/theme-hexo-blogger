@@ -5,7 +5,7 @@ date: 2015-02-26
 comments: true
 ---
 
-<img src="/images/posts/elemos.jpg" alt="Um pouco de Linux" title="Um pouco de linux">
+<img src="/images/posts/elemos-post.jpg" alt="Um pouco de Linux" title="Um pouco de linux">
 
 Há tempos queria escrever um pouco sobre Linux, sou fã do SO, a variedade e as opções são de encher os olhos, com isso, resolvi escrever um pouco sobre o dia a dia com o Linux...
 

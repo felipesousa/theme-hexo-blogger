@@ -5,7 +5,7 @@ date: 2015-01-18
 comments: true
 ---
 
-<img src="/images/posts/gitpost.jpg" alt="Básico em Git - Parte 2" title="Básico em Git - Parte 2">
+<img src="/images/posts/git.jpg" alt="Básico em Git - Parte 2" title="Básico em Git - Parte 2">
 
 Bem, voltando com a segunda parte o artigo sobre GIT, vamos aprender sobre como verificar as mudanças realizadas nos arquivos, aprender como verificar os logs do projeto e como desfazer algumas ações. 
 <!--more-->
