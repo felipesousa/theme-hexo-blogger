@@ -28,6 +28,25 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+#Plugins
+
+plugins:
+- hexo-generator-robotstxt
+
+#Robots.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /js
+    - /css
+    - /fancybox
+    - /images
+    - /tags
+  allow:
+    - /about
+    - /projects
+  sitemap: /sitemap.xml
+
 #Feed
 
 feed:
