@@ -12,10 +12,15 @@ comments: false
 		<br />
 	<div class="github-widget" data-repo="felipesousa/jnotes"></div>
 		<br />
-	<div class="github-widget" data-repo="felipesousa/fortal-model"></div>
+	<div class="github-widget" data-repo="felipesousa/oldversion"></div>
 		<br />
-	<div class="github-widget" data-repo="felipesousa/Foundation-Beginners"></div>
+	<div class="github-widget" data-repo="felipesousa/theme-hexo-blogger"></div>
+		<br />
+	<div class="github-widget" data-repo="felipesousa/theme-basic-foundation"></div>
+		<br />
+	<div class="github-widget" data-repo="felipesousa/my-helper-foundation"></div>
 </div>
+
 	
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery-github.js"></script>
