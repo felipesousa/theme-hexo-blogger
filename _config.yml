@@ -50,8 +50,8 @@ robotstxt:
 #Feed
 
 feed:
-  type: atom
-  path: atom.xml
+  type: rss2
+  path: rss2.xml
   limit: 5
 
 #Sitemap
