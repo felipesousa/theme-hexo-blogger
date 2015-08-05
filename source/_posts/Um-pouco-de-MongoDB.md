@@ -1,3 +1,4 @@
+---
 title: MongoDB - Baby Steps
 date: 2015-07-24 00:05:56
 tags: ['MongoDB','NoSQL']
@@ -15,7 +16,7 @@ Este será um ~~guia~~ que visa apenas listar alguns comandos simples, sem muita
 ```bash 	 
 mongo
 ```
-#####Todos os comandos a seguir serão executados após termos iniciado o MongoDB.
+##### Todos os comandos a seguir serão executados após termos iniciado o MongoDB.
 
 
 * Listar base de dados existentes no banco.
@@ -36,7 +37,7 @@ use NomeDoBanco
 db
 ```
 
-###Collections
+### Collections
 
 Collection é como uma estrutura de dados é chamada em MongoDB.
 
@@ -60,7 +61,7 @@ db.createCollection('pessoas')
 show collections
 ```
 
-###Inserir Dados
+### Inserir Dados
 
 Pronto, passos simples de como realizamos a criação e listagem de collections. Vamos agora ver como adicionamos dados as essas collections. 
 
@@ -80,7 +81,7 @@ db.pessoas.insert({nome: "felipe", idade: 17, sexo: "masculino"});
 
 Como visto o exemplo acima, usamos o padrão de escrita de arquivos json para inserir dados.
 
-###Consulta de dados
+### Consulta de dados
 
 Para consultarmos uma collection e observar os dados que existem nela de 2 formas: 
 
@@ -108,7 +109,7 @@ db.pessoas.find().pretty();
 }
 
 ```
-###Update de Dados
+### Update de Dados
 
 No mongoDB, o método `update()` serve como método de atualização de algum dado, como também de criação daquele campo caso não exista o campo.
 
@@ -126,7 +127,7 @@ Nesse exemplo, estamos dizendo que estamos alterando o valor do campo idade onde
 
 *Observe que no 2º parametro utilizamos o `$set` para descrevermos que apenas aquela chave de **campo: valor** vai ser alterada quando executarmos o método, caso o `$set` não seja incluído, todos os campos de todos os dados vão ser substituidos.*
 
-###Remover Dados
+### Remover Dados
 
 Para removermos dados de uma collection utilizamos o comando:
 
@@ -144,7 +145,7 @@ Com isso, acabo de remover todos os dados do usuário que possui o `name` como "
 
 *Para removermos todos os dados da collection basta passar como parâmetro `{}` no método `.remove()`.*
 
-###Deletar Collections e Base de dados
+### Deletar Collections e Base de dados
 
 Para deletar um collection usamos o comando: 
 
