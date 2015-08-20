@@ -120,7 +120,7 @@ db.nomeDaCollection.update(query, modificador, callback);
 O método `update()` recebe três parâmetros, sendo eles `query`, que vai ser **ONDE** nós vamos alterar os dados, `modificador`, que vai ser **PELO QUE** aquele dado vai ser alterado, e um callback. Vejamos um exemplo:
 
 ```bash 
-db.pessoas.update({name}: "felipe", { $set:{idade: 20} });
+db.pessoas.update({name: "felipe"}, { $set:{idade: 20} });
 ```
 
 Nesse exemplo, estamos dizendo que estamos alterando o valor do campo idade onde o `name` do dado for "felipe".
