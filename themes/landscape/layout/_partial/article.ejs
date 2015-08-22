@@ -9,8 +9,9 @@
         <%- partial('post/title', {class_name: 'article-title'}) %>
       </header>
     <% } %>
-    <div class="article-entry" itemprop="articleBody"> 
+    <div class="article-entry" itemprop="articleBody">
         <% if ( post.excerpt && index){ %>
+          <div class="music-suggest">Música sugerida: <%= post.music %></div>
           <% post.image %>
           <%- post.excerpt %>
             <% if (theme.excerpt_link){ %>
