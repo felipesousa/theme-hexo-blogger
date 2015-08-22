@@ -3,6 +3,8 @@ title: Como instalar Jekyll no Linux
 tags: ['Linux', 'static', 'generators', 'jekyll', 'pages']
 date: 2015-03-02
 comments: true
+music: "Capital Inicial - Depois da meia noite"
+musicLink: "https://open.spotify.com/track/6pu9S3CeFdo8z20Jw1mZgc"
 ---
 <img src="/images/posts/jekyll-post.jpg" alt="Como instalar Jekyll no Linux" title="Como instalar Jekyll no Linux">
 
@@ -72,7 +74,7 @@ A mensagem exibida diz que um novo site em jekyll foi criado no diretório **/ho
             Configuration file: /home/felipe/Documentos/projetos/teste/_config.yml
                     Server address: http://127.0.0.1:4000/
                     Server running... press ctrl-c to stop.
-``` 
+```
 
  Pronto! Para vermos o exemplo basta irmos no navegador e digitarmos **http://localhost:4000**.
 
