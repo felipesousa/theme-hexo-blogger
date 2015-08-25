@@ -19,7 +19,7 @@ Minha convivência com o SO não faz muito tempo, tenho pouco tempo de uso com L
 
 Hoje em dia eu mudei completamente a minha visão de usuário para com SO's, antigamente, como uma parte considerável da **TERRA** eu usava Windows. Para muitas das minhas tarefas como um usuário comum estava de bom tamanho, porém, com o passar do tempo criei coragem e resolvi enfretar de vez o mundo do pinguin. o/
 
-##Primeiras Impressões
+## Primeiras Impressões
 
 Muita gente diz que a primeira impressão é a que fica, o que mais me chamou a atenção na primeira vez que peguei em um Linux foi a variedade. A primeira distro que eu vi e experimentei foi o Ubuntu 12.04, a versão não estava original, e sim, bastante modificada,  o que inicialmente me chamou bastante a atenção, pois estava bonito e super rápido.
 
@@ -30,7 +30,7 @@ Desde então fui migrando de distro em distro tanto para saber qual era a que ma
 
 Dentre elas estão em sequência: Ubuntu, Linux Mint, Open Suse, Debian, Pear Linux, Fedora GNOME/KDE, e agora a Elementary OS, dentre todas as citadas a que mais tempo passei foi o Fedora GNOME, quase que 8 meses com a distro, me fez criar um afeto enorme e também aprender várias coisas sobre a mesma.  De uns tempos pra cá,  deu uma vontade angustiante de mudar de distro,  e com isso pesquisei uma distro interssante, e com isso mudei para a Elementary OS.
 
-##Elementary OS - Simples, Rápido e Bonito
+## O tal do Elementary OS 
 
 Pelo pouco tempo que eu tenho com a nova distro já da pra ver que é super rápida, influente e totalmente personalizável - tal como qualquer outra distro - recursos, temas, widget's, programas, fluidez, me fez logo de cara se apaixonar pela distro.  A distro é baseada no Ubuntu, o que torna mais simples de usar, possui um sistema de tweaks próprio que auxilia muito mais na personalização.
 

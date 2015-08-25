@@ -12,11 +12,11 @@ Atualmente, quanto mais simples e funcional a ferramenta for, mais rapidamente e
 
 <!--more-->
 
-##O que é Jekyll?
+## O que é Jekyll?
 
 Jekyll é um gerador de páginas estáticas criado em Ruby. Geradores de páginas estáticas são aquelas que não possuem um sistema por trás delas, um banco de dados por exemplo, páginas estaticas é uma boa pedida para caso queiramos criar sites simples, onde não temos a necessidade de ter uma interação forte com o usuário. Jekyll é uma boa pedida para caso queiramos criar um blog pessoal ou coisa do tipo, esse blog é um exemplo de site criado em Jekyll.
 
-##Ambiente de Instalação
+## Ambiente de Instalação
 
 **Atenção:** É necessário ter Node.js instalado na máquina para executar as funções.
 
@@ -28,7 +28,7 @@ Bem, inicialmente para instalarmos Jekyll que é uma gem de Ruby, temos de prime
 
 Segundo podemos ver, a versão do Ruby atual instalada é a **1.9.3**, é importante lembrar que para instalarmos o Jekyll é importante ter uma versão igual ou superior a **1.9.3**,  caso sua versão seja anterior a esta, atualize para evitar futuros possíveis erros de instalação de algumas GEM'S.
 
-###Instalando o Jekyll
+### Instalando o Jekyll
 
 A partir de agora, vire best friend forever do seu terminal, pois é a partir dele que iremos instalar e utilizar as funções do Jekyll, e de qualquer outra Gem que você venha futuramente a utilizar.  Para instalar o Jekyll é simples basta ir no terminal e digitar o seguinte comando: `gem install jekyll`, caso precise de permissão execute `sudo gem install jekyll`, no segundo caso será requerida uma senha, insira a senha do usuário **root** e prossiga com a instalação.
 
@@ -46,7 +46,7 @@ Caso a instalação seja concluída com sucesso, execute o comando `gem list`, q
 
 Pronto, com isso já temos instalado o Jekyll na versão **2.5.3**, o exemplo segue o mesmo para instalar a maioria das gem's.
 
-##Mãos a Obra!
+## Mãos a Obra!
 
 Bem, após tudo instalado corretamente, vamos criar uma interface 'pastel' do jekyll, basta executarmos 2 comandos para termos um exemplo simples de uma página.
 Os comandos são:
