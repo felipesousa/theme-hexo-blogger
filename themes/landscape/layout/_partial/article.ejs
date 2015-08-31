@@ -11,7 +11,7 @@
     <% } %>
     <div class="article-entry" itemprop="articleBody">
         <% if ( post.excerpt && index){ %>
-          <div class="music-suggest">Música sugerida: <a href=' <%= post.musicLink %> ' target="blank"><%= post.music %></a></div>
+          <div class="music-suggest"><a id="nav-music" class="article-icon"> <a href=' <%= post.musicLink %> ' target="blank"><%= post.music %></a></div>
           <% post.image %>
           <%- post.excerpt %>
             <% if (theme.excerpt_link){ %>

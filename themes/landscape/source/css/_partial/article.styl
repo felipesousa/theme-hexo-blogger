@@ -334,6 +334,20 @@ $article-share-link
 .music-suggest
   font-style: italic
   color: #032724
+  content: "\f001"
+  
+#nav-music
+  transition-property: color
+  transition-duration: 0.2s
+  color: #263238
+  &:before
+    content: "\f001"
+  &:hover
+    text-decoration: none
+    transition-property: color
+    transition-duration: 0.8s
+    color: #1B1D1E
+  
 /*
 $article-gallery-ctrl
   position: absolute
