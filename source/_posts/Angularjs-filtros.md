@@ -3,10 +3,11 @@ title: 'AngularJS | Filtros'
 date: 2015-09-02 19:08:50
 tags: ['angularjs', 'filtros', 'javascript']
 comments: true
-music:
-music-link:
-
+music: "Sublime -Wrong Way"
+musicLink: "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
 ---
+<img src="/images/posts/angularjs-filters.png" alt="AngularJS | Filtros" title="AngularJS | Filtros">
+
 
 Fala pessoal, depois de algum tempo sem escrever pro blog, resolvi levantar as mangas e por uma meta de no mínimo 1 artigo por semana, e quem sabe futuramente 1 por dia. Então, começando com o básico, resolvi escrever sobre um framework bastante conhecido - AngularJS - e sobre uma das 'ferramentas' interessante que ele nos pode proporcionar, sendo essas os chamados *filtros*.
 
