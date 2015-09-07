@@ -15,7 +15,10 @@
           <% post.image %>
           <%- post.excerpt %>
             <% if (theme.excerpt_link){ %>
+
               <p class="article-more-link">
+
+                <span id="timeRead">tempo para leitura: <%= post.timeRead %></span>     
                 <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
               </p>
             <% } %>
