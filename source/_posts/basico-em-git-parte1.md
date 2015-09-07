@@ -5,6 +5,7 @@ date: 2015-01-17
 comments: true
 music: "Sublime - Santeria"
 musicLink: 'https://open.spotify.com/track/2Z2vOukzwOgqR4dkymRSWd'
+timeRead: 6 minutos
 ---
 
 <img src="/images/posts/git.jpg" alt="Básico em Git - Parte 1" title="Básico em Git - Parte 1">

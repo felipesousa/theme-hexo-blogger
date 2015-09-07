@@ -5,6 +5,7 @@ tags: ['MongoDB','NoSQL']
 comments: true
 music: "Green Day - Brain Stew"
 musicLink: "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
+timeRead: 10 minutos
 ---
 <img src="/images/posts/mongodb.jpg" style=" height:200px ;" alt="MongoDB - Baby Steps" title="MongoDB - Baby Steps">
 

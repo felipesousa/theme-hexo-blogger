@@ -5,6 +5,7 @@ date: 2015-01-18
 comments: true
 music: "Sublime - What I Got"
 musicLink: "https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH"
+timeRead: 7 minutos
 ---
 
 <img src="/images/posts/git.jpg" alt="Básico em Git - Parte 2" title="Básico em Git - Parte 2">

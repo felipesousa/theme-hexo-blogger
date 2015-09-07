@@ -5,7 +5,7 @@ tags: ['frontend', 'life', 'comunity', 'lifestyle']
 comments: true
 music: "ACDC - Shoot to Thrill"
 musicLink: "https://open.spotify.com/track/6GzCkTddOn1vSln1gbSr8y"
-
+timeRead: 7 minutos
 ---
 <img src="/images/posts/fif2014-post.jpg" alt='Front in Fortaleza 2014' title='Front in Fortaleza 2014' >
 

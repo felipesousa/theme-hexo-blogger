@@ -5,6 +5,7 @@ date: 2015-03-02
 comments: true
 music: "Capital Inicial - Depois da meia noite"
 musicLink: "https://open.spotify.com/track/6pu9S3CeFdo8z20Jw1mZgc"
+timeRead: 10 minutos
 ---
 <img src="/images/posts/jekyll-post.jpg" alt="Como instalar Jekyll no Linux" title="Como instalar Jekyll no Linux">
 

@@ -5,7 +5,7 @@ date: 2015-04-10
 comments: true
 music: "TFK - Set me on fire"
 musicLink: "https://open.spotify.com/track/6CHmPcd0X85BWVVFfHjYVI"
-
+timeRead: 4 minutos
 ---
 
 <img src="/images/posts/pro.jpg" alt="A importância de Prototipar" title="A importância de Prototipar">

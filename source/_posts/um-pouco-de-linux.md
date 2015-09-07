@@ -5,6 +5,7 @@ date: 2015-02-26
 comments: true
 music: "Artic Monkeys - Arabella"
 musicLink: "https://open.spotify.com/track/2LdG9xtEzCho3jCr58M6cq"
+timeRead: 4 minutos
 ---
 
 <img src="/images/posts/elemos-post.jpg" alt="Um pouco de Linux" title="Um pouco de linux">

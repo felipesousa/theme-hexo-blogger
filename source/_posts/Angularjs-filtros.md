@@ -5,6 +5,7 @@ tags: ['angularjs', 'filtros', 'javascript']
 comments: true
 music: "Sublime -Wrong Way"
 musicLink: "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
+timeRead: 6 minutos
 ---
 <img src="/images/posts/angularjs-filters.png" alt="AngularJS | Filtros" title="AngularJS | Filtros">
 
