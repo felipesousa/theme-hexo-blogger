@@ -29,6 +29,7 @@ Os tipos de filtros não são tão extensos, porém, com AngularJS você pode cr
 - **uppercase** - Converte tudo pra maiúsculo.
 - **limitTo** - Usado para limitar o quantidade de valores que serão apresentados. Limitar a quantidade de vezes que vai se repetir, etc.
 - **json** - formata para o modelo json.
+
 Esses são os principais tipos de filtros existentes no AngularJS, para mais informações e filtros, confira a [documentação oficial](https://docs.angularjs.org/api/ng/filter) do AngularJS.
 
 ### Como utilizar filtros
