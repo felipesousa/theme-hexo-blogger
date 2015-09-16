@@ -1,7 +1,7 @@
 ---
 title: 'AngularJS | Formulários'
 date: 2015-09-14 18:20:07
-tags: ['angularjs', 'frontend']
+tags: ['angularjs', 'frontend', 'html5']
 comments: true
 music: "Red Radio City - Two out of three ain't rad"
 musicLink: "https://open.spotify.com/track/2A9pBtvEuy3Kp2WcJawm4L"
@@ -77,5 +77,4 @@ Se olharmos o código na linha **41**, estamos fazendo um bind do próprio formu
 - **$name** -  Retorna o nome do formulário. 
 
 Todos acima podem ser utilizados em campos específicos e não somente no formulário por completo.
-
 
