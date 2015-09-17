@@ -5,7 +5,10 @@ tags: ['angularjs', 'frontend', 'html5']
 comments: true
 music: "Red Radio City - Two out of three ain't rad"
 musicLink: "https://open.spotify.com/track/2A9pBtvEuy3Kp2WcJawm4L"
+timeRead: 8 minutes
 ---
+
+<img src="/images/posts/angularjs-forms.png" alt="AngularJS | Formulários" title="AngularJS | Formulários">
 
 Validar formulários é uma atividade um pouco chata, porém, super importante de ser praticada, nesse artigo falarei um pouco sobre como podemos utilizar o AngularJS para nos auxiliar a validarmos formulários de forma simples e rápida.
 
@@ -139,7 +142,7 @@ Com o campo ainda não preenchido, temos o seguintes estados:
 Os estados $valid e $invalid retornam `false` e `true` respectivamente. Segundo os nossos estados, o campo email está invalido. Com essas informações já podemos comecar com o uso da diretiva *ng-class*. A diretiva será adicionada na tag `div`, a diretiva recebe como parâmetro um objeto, onde lá iremos fazer o uso das classes que queremos no elemento, sintaxe ficará desta forma: 
 
 ```html 
-<div class="form-group" ng-class="{'classe': valor}">
+<div class="form-group" ng-class="{'className': valor}">
 <!-- continuação do codigo -->
 ```
 
@@ -160,6 +163,6 @@ O valor retornado será um booleano, e é aqui que nós vamos usar para implemen
 
 Se estivessemos conversando com a diretiva, estariamos falando o seguinte: "**ôôô ng-class, quando o campo for inválido, tu adiciona a classe `has-warning`, quando ele for válido tu adiciona a `has-success` beleza?**".
 
-Dessa forma, estamos alterando as classes do campo de acordo com estado do elemento, sendo ele válido ou não. Existem algumas outras diretivas que nos auxiliam no desenvolvimento e na validação dos nossos formulários. Em outros artigos, poderemos abordar sobre esse assunto utilizando outras formas de validação.  
+Dessa forma, estamos alterando as classes do campo de acordo com estado do elemento, sendo ele válido ou não. Existem algumas outras diretivas que nos auxiliam no desenvolvimento e na validação dos nossos formulários. Em outros artigos, poderemos abordar sobre esse assunto utilizando outras formas de validação. [Veja o resultado final completo.](https://github.com/felipesousa/theme-hexo-blogger/blob/master/code-example/angular-js-forms.html)
 
 Bem galera, era isso, caso encontre algum erro, algo que deveria ser implemenetado, ou algum comentário sobre o artigo, basta comentar. Até a próxima o/.
