@@ -3,7 +3,6 @@ date: 2015-05-19 21:11:48
 comments: false
 ---
 
-
 #### Meus repositórios e/ou forks no GitHub
 <div style="width: auto; max-width: 900px;">
 	<div class="github-widget" data-repo="felipesousa/felipesousa.github.io"></div>
@@ -20,9 +19,4 @@ comments: false
 		<br />
 	<div class="github-widget" data-repo="felipesousa/my-helper-foundation"></div>
 </div>
-
-	
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery-github.js"></script>
-<br />
 
