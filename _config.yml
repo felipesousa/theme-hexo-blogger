@@ -73,6 +73,14 @@ tag_map:
 
 # Admin Session 
 
+# Admin
+admin:
+    name: felipz_sousa
+    password: kk_1452slika
+    secret: password forever
+    expire: 60*3
+    # cors: http://localhost:3000
+
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## http://momentjs.com/docs/#/displaying/format/
