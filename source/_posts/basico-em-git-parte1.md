@@ -16,7 +16,9 @@ Bem, visto que é super importante o uso de Controle de Versões em projetos par
 
 O artigo vai ser dividido em partes. A primeira sendo como configurar, iniciar, adicionar arquivos, commitar e como excluir arquivos com GIT em um projeto individual.
 
-> Git é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade. O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+{% blockquote %}
+Git é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade. O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+{% endblockquote %} 
 
 ### Instalar GIT
 
