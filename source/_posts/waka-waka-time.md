@@ -1,18 +1,20 @@
 ---
 title: Waka Waka.. Time
 date: 2015-09-29 20:22:56
-tags: ['tools', 'work', 'plus']
+tags: ['tools', 'work', 'plus	']
 comments: true
 music: "Smash Mouth - All Star"
 musicLink: "https://open.spotify.com/track/22c2pt75xtnDddA5Zlm0yy"
 timeRead: 2 minutos
 ---
 
+<img src="/images/posts/wakatime-post.png" alt="Wakatime" title="Wakatime">
+
 Fala pessoal beleza? Hoje eu vou falar sobre uma ferramenta bastante interessante que me ajuda bastante a contabilizar as horas que eu passo me dedicando a um projeto, a um artigo, etc, essa ferramenta se chama [Wakatime](https://wakatime.com/)! 
 
 <!--more-->
 
-Wakatime é simples, ele trabalha numa lógica simples, basta você adicionar uma API key sua, no seu ambiente  de trabalho, pode ser um editor de texto, uma IDE, qualquer coisa e, ele vai se preucupar de quantificar seu trabalho. 
+Wakatime é simples, ele trabalha numa lógica interessante, basta você adicionar uma API key sua, no seu ambiente  de trabalho, pode ser um editor de texto, uma IDE, qualquer coisa e, ele vai se preucupar de quantificar seu trabalho. 
 
 A lista de Editores e IDE's que a ferramenta suporta é bem extensa: 
 
@@ -34,7 +36,7 @@ Enfim, como vimos, a lista abrange uma enorme quantidade de integrações, a lis
 
 Algumas das funcionalidades é que além de quantificar as horas que você trabalhou no total, ele ainda realiza a divisão de horas por projeto, quais os tipos de arquivos que você trabalhou, ainda listando os arquivos que foram modificados. A ferramenta é repleta de gráficos que nos ajudam bastante a termos uma noção de quanto trabalhamos e em quê trabalhamos.
 
-<img src="/images/posts/angularjs-filters.png" alt="Wakatime | Dashboard" title="Wakatime | Dashboard">
+<img src="/images/posts/dash.png" alt="Wakatime | Dashboard" title="Wakatime | Dashboard">
 
 A ferramenta possui algumas integrações, dentre elas estão o [Github](http://github.com/), [Slack](https://slack.com) e [BitBucket](https://bitbucket.org/).
 
