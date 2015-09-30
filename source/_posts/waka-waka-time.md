@@ -3,12 +3,12 @@ title: Waka Waka.. Time
 date: 2015-09-29 20:22:56
 tags: ['tools', 'work', 'plus	']
 comments: true
-music: "Smash Mouth - All Star"
-musicLink: "https://open.spotify.com/track/22c2pt75xtnDddA5Zlm0yy"
+music: "Cinematic Orchestra - Evolution"
+musicLink: "https://open.spotify.com/track/3X6rQmbpJ3qg2Okh2iAugT"
 timeRead: 2 minutos
 ---
 
-<img src="/images/posts/wakatime-post.png" alt="Wakatime" title="Wakatime">
+<img src="/images/posts/wakatime.png" alt="Wakatime" title="Wakatime">
 
 Fala pessoal beleza? Hoje eu vou falar sobre uma ferramenta bastante interessante que me ajuda bastante a contabilizar as horas que eu passo me dedicando a um projeto, a um artigo, etc, essa ferramenta se chama [Wakatime](https://wakatime.com/)! 
 
