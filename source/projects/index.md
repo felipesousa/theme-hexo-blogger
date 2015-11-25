@@ -4,19 +4,61 @@ comments: false
 ---
 
 #### Meus repositórios e/ou forks no GitHub
-<div style="width: auto; max-width: 900px;">
-	<div class="github-widget" data-repo="felipesousa/felipesousa.github.io"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/front-in-fortaleza-app"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/jnotes"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/oldversion"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/theme-hexo-blogger"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/theme-basic-foundation"></div>
-		<br />
-	<div class="github-widget" data-repo="felipesousa/my-helper-foundation"></div>
+
+<div class='project'>
+	<div class='project-header'>
+		<img src='/images/header/github-project.png' class='project-img' alt='' />
+	</div>
+	<div class='project-content'>
+		<a href="https:github.com/felipesousa/things"><h4 class='title'> Things </h4> </a>
+		<span class='description'> This repository, will be for use of some projects, without much structure, the use of an external api, and some others things .. </span>
+	</div>
 </div>
 
+<hr/>
+
+<div class='project'>
+	<div class='project-header'>
+		<img src='/images/header/github-project.png' class='project-img' alt='' />
+	</div>
+	<div class='project-content'>
+		<a href="https://github.com/felipesousa/cordova-resources"><h4 class='title'> Cordova-resources </h4> </a>
+		<span class='description'> Cordova plugin for generate splashscreens and icons easily.</span>
+	</div>
+</div>
+
+<hr/>
+
+<div class='project'>
+	<div class='project-header'>
+		<img src='/images/header/github-project.png' class='project-img' alt='' />
+	</div>
+	<div class='project-content'>
+		<a href="https://github.com/felipesousa/theme-hexo-blogger"><h4 class='title'> Hexo-theme-blogger</h4> </a>
+		<span class='description'> My theme for HexoJS bloggers.</span>
+	</div>
+</div>
+
+<hr/>
+
+<div class='project'>
+	<div class='project-header'>
+		<img src='/images/header/github-project.png' class='project-img' alt='' />
+	</div>
+	<div class='project-content'>
+		<a href="https://github.com/felipesousa/felipesousa.github.io"><h4 class='title'> Personal blog</h4> </a>
+		<span class='description'> My blog created with HexoJS.</span>
+	</div>
+</div>
+
+<hr/>
+
+<div class='project'>
+	<div class='project-header'>
+		<img src='/images/header/github-project.png' class='project-img' alt='' />
+	</div>
+	<div class='project-content'>
+		<a href="https://github.com/felipesousa/coparblu"><h4 class='title'>Coparblu</h4> </a>
+		<span class='description'> Ionic project mobile for test.</span>
+	</div>
+</div>

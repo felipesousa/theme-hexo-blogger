@@ -21,8 +21,8 @@ input, button
        url(font-icon-path + ".woff?v=#" + font-icon-version) format("woff"),
        url(font-icon-path + ".ttf?v=#" + font-icon-version) format("truetype"),
        url(font-icon-path + ".svg#fontawesomeregular?v=#" + font-icon-version) format("svg")
-       
-@font-face 
+
+@font-face
   font-family: 'Source Code Pro'
   font-style: normal
   font-weight: 400
@@ -62,6 +62,23 @@ body
 .mobile-nav-on
   overflow: hidden
 
+
+.project
+  display flex !important
+  justify-content normal !important
+
+  .project-header
+    padding 10px !important
+
+    .project-img
+      max-width 100px !important
+      border-radius 100% !important
+  .project-content
+    a:hover
+      text-decoration none !important
+    h4
+      margin-bottom 0px !important
+      
 #wrap
   height: 100%
   width: 100%
