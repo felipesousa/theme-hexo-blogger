@@ -11,14 +11,17 @@
     <% } %>
     <div class="article-entry" itemprop="articleBody">
         <% if ( post.excerpt && index){ %>
-          <div class="music-suggest"><a id="nav-music" class="article-icon"> <a href=' <%= post.musicLink %> ' target="blank"><%= post.music %></a></div>
+          <% if (post.music && post.musicLink) { %>
+            <div class="music-suggest"><a id="nav-music" class="article-icon"> <a href=' <%= post.musicLink %> ' target="blank"><%= post.music %></a></div>
+          <% } %>
           <% post.image %>
           <%- post.excerpt %>
             <% if (theme.excerpt_link){ %>
 
               <p class="article-more-link">
-
-                <span id="timeRead">time Read: <%= post.timeRead %></span>     
+                <% if (post.timeRead) { %>
+                  <span id="timeRead">time Read: <%= post.timeRead %></span>
+                <% } %>
                 <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
               </p>
             <% } %>

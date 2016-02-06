@@ -2,21 +2,6 @@ title: "Projetos"
 date: 2015-05-19 21:11:48
 comments: false
 ---
-
-#### Meus repositórios e/ou forks no GitHub
-
-<div class='project'>
-	<div class='project-header'>
-		<img src='/images/header/github-project.png' class='project-img' alt='' />
-	</div>
-	<div class='project-content'>
-		<a href="https:github.com/felipesousa/things"><h4 class='title'> Things </h4> </a>
-		<span class='description'> This repository, will be for use of some projects, without much structure, the use of an external api, and some others things .. </span>
-	</div>
-</div>
-
-<hr/>
-
 <div class='project'>
 	<div class='project-header'>
 		<img src='/images/header/github-project.png' class='project-img' alt='' />
@@ -34,7 +19,7 @@ comments: false
 		<img src='/images/header/github-project.png' class='project-img' alt='' />
 	</div>
 	<div class='project-content'>
-		<a href="https://github.com/felipesousa/theme-hexo-blogger"><h4 class='title'> Hexo-theme-blogger</h4> </a>
+		<a href="https://github.com/felipesousa/theme-hexo-blogger"><h4 class='title'> Blog </h4> </a>
 		<span class='description'> My theme for HexoJS bloggers.</span>
 	</div>
 </div>
