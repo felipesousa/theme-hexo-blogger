@@ -81,6 +81,35 @@ a = (a, b) ->
 ```
 Por mais óbvio que pareca, em alguns casos de erros, esquecer de declarar o return no fim de uma função, ou expressão, pode causar uma grande confusão, mas, basta atenção e nunca esquecer do carinha.
 
+## Bad - Cuidado com espaços em branco!
+Outro ponto do CoffeeScript que pode causar alguns problemas é que o em alguns casos podemos eliminar o uso dos `()` em determinados casos, vejamos o exemplo:
+
+``` coffeescript
+# js
+var http = require('http');
+
+# coffee
+http = require 'http'
+```
+CoffeeScript trata como o que vem depois de um espaço em branco em alguns casos, como parâmetro do método ou função, e é o que acontece no exemplo anterior, ele considerou o `'http'` como parâmetro do `require`.
+
+Se olharmos pelo ponto de diminuir o uso de caracteres, se trata de vantagem ter isso em alguns pontos do código, o grande problema ocorre quando podemos usar isso em lugares que são mais propícios a erros, como por exemplo, chamar uma função que não possui parâmetros e depois adicionar logo em seguida, algo que não faça parte do escopo da função, ou simplesmente outro trecho de código, vejamos o exemplo:
+
+``` coffeescript
+# coffee
+a = ->
+b = ->
+
+a b
+
+# js
+var a = function (){}
+var b = function (){}
+a(b)
+```
+
+Ele considerou a função `b` como parâmetro da função `a`, que não recebe parâmetros na sua declaração, e isso, pode causar bastante dor de cabeça, por isso, atenção nos `" "`.
+
 Resumindo, existem diversos outros pontos positivos e negativos ao se usar tanto o CoffeeScript, como qualquer outro compiler, cabe da experiência de usar e saber se vale ou não a pena o uso de um deles. Importante antes de tudo, experimentar para saber qual vai facilitar sua vida no dia a dia.
 
 Para saber mais sobre o CoffeeScript,  galera do [Loop Infinito](http://loopinfinito.com.br/) fez a vez uma versão da [documentação em português](http://coffeescript.loopinfinito.com.br/).
