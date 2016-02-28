@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Felipe Sousa" 
-titlesecondary : " Felipe Sousa | Desenvolvedor Front end"
-subtitle: "Desenvolvedor Front end, entusiasta da web e apaixonado pelo mundo livre!"
-description: "Desenvolvedor Front end, programador de aplicações web, apaixonado por Linux e tudo do mundo Open Source"	
-author: "Felipe Sousa | Desenvolvedor Front End" 
+title: "Felipe Sousa"
+titlesecondary : "Felipe Sousa | Desenvolvedor Front end"
+subtitle: "Desenvolvedor Front-end, Mobile e apaixonado por desenvolvimento Open Source"
+description: "Desenvolvedor Front-end, Mobile e apaixonado por desenvolvimento Open Source"
+author: "Felipe Sousa | Desenvolvedor Front End"
 language: pt-BR
-timezone: 
+timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: felipesousa.github.io
@@ -71,7 +71,7 @@ default_category: uncategorized
 category_map:
 tag_map:
 
-# Admin Session 
+# Admin Session
 
 # Admin
 admin:
